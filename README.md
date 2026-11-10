@@ -65,3 +65,7 @@ adb shell am start -n com.chen3feng.beautycam/.MainActivity \
 - 暂无妆效、发际线、去痣、视频美颜、HDR/夜景。
 
 这些都在 `docs/PRINCIPLES.md` 的“下一步”里有对应方案。
+
+## 许可证
+
+MIT，见 [LICENSE](LICENSE)。
