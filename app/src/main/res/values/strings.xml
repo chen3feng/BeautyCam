@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BeautyCam</string>
+    <string name="beauty">Beauty</string>
+    <string name="smooth">Smooth</string>
+    <string name="whiten">Whiten</string>
+    <string name="slim">Slim</string>
+    <string name="eyes">Big eyes</string>
+    <string name="capture">Take photo</string>
+    <string name="flip">Switch camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="processing">Applying beauty…</string>
+    <string name="retake">Retake</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved to gallery</string>
+    <string name="permission_needed">Camera permission is required</string>
+    <string name="hold_compare">Hold to compare</string>
+    <string name="camera_error">Failed to start camera</string>
+
+    <string name="camera_front">Front · Live beauty</string>
+    <string name="camera_back">Rear · Live beauty</string>
+    <string name="camera_import">Import test</string>
+    <string name="beauty_off">Beauty off</string>
+    <string name="beauty_summary">Smooth %1$d · Whiten %2$d · Slim %3$d · Eyes %4$d</string>
+    <string name="capture_failed">Capture failed: %1$s</string>
+    <string name="process_failed">Processing failed: %1$s</string>
+    <string name="save_failed">Save failed: %1$s</string>
+    <string name="no_gallery_app">No gallery app available</string>
+</resources>

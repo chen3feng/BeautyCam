@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BeautyCam</string>
+    <string name="beauty">美颜</string>
+    <string name="smooth">磨皮</string>
+    <string name="whiten">美白</string>
+    <string name="slim">瘦脸</string>
+    <string name="eyes">大眼</string>
+    <string name="capture">拍照</string>
+    <string name="flip">切换摄像头</string>
+    <string name="gallery">相册</string>
+    <string name="processing">正在美颜处理…</string>
+    <string name="retake">重拍</string>
+    <string name="save">保存</string>
+    <string name="saved">已保存到相册</string>
+    <string name="permission_needed">需要相机权限才能拍照</string>
+    <string name="hold_compare">按住查看原图</string>
+    <string name="camera_error">相机启动失败</string>
+
+    <string name="camera_front">前置 · 实时美颜</string>
+    <string name="camera_back">后置 · 实时美颜</string>
+    <string name="camera_import">导入测试</string>
+    <string name="beauty_off">美颜已关闭</string>
+    <string name="beauty_summary">磨皮 %1$d · 美白 %2$d · 瘦脸 %3$d · 大眼 %4$d</string>
+    <string name="capture_failed">拍照失败: %1$s</string>
+    <string name="process_failed">处理失败: %1$s</string>
+    <string name="save_failed">保存失败: %1$s</string>
+    <string name="no_gallery_app">没有可用的相册应用</string>
+</resources>
